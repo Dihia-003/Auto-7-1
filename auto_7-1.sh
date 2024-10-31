@@ -43,7 +43,7 @@ mkdir vendors
 cd vendors
 touch _bootstrap.scss
 touch _normalize.scss
-
+cd ..
 echo "// Abstracts
 @import 'abstracts/variables';
 @import 'abstracts/functions';
