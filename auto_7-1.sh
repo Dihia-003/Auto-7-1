@@ -55,12 +55,12 @@ echo "// Abstracts
 @import 'base/typography';
 @import 'base/base';
 
-// Layout
-@import 'layout/header';
-@import 'layout/footer';
-@import 'layout/sidebar';
-@import 'layout/grid';
-@import 'layout/container';
+// Layouts
+@import 'layouts/header';
+@import 'layouts/footer';
+@import 'layouts/sidebar';
+@import 'layouts/grid';
+@import 'layouts/container';
 
 // Components
 @import 'components/buttons';
