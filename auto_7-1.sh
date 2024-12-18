@@ -60,7 +60,7 @@ echo "// Abstracts
 @import 'layouts/footer';
 @import 'layouts/sidebar';
 @import 'layouts/grid';
-@import 'layouts/container';
+@import 'layouts/containers';
 
 // Components
 @import 'components/buttons';
